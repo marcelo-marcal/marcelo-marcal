@@ -23,7 +23,3 @@
 
 
 
-
-
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="git" width="40" height="40" style="max-width:100%;">
