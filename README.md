@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working at Magnet Smart Solutions.
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT.
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, TYPESCRIPT, SQL, NODE, REACT.
 - 👯 I’m looking to collaborate on cerfoxtelecom project, Setor Azul project.
 - 🤔 I’m looking for help with TypeScript
 - 💬 Ask me about @Marcelo Marçal
