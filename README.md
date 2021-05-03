@@ -20,7 +20,7 @@
 
 
 - Ignite Trilha Node.js
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="git" width="40" height="40" style="max-width:100%;"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width:100%;"> <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="max-width:100%;">
+- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="git" width="40" height="40" style="max-width:100%;"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width:100%;"> <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="max-width:100%;">
 
 
 
