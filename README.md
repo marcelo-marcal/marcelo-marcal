@@ -6,9 +6,11 @@
 - 👯 I’m looking to collaborate on cerfoxtelecom project, Setor Azul project.
 - 🤔 I’m looking for help with TypeScript
 - 💬 Ask me about @Marcelo Marçal
-- ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-!<a href="https://www.linkedin.com/in/marcelo-mar%C3%A7al-464911a5/" rel="nofollow"><img align="left" alt="haryel gillet ramalho | LinkedIn" width="40px" src="https://github.com/LucasVanni/LucasVanni/raw/master/imgs/linkedin.png" style="max-width:100%;"></a>
+<p></p>
+
+-!<a href="https://www.linkedin.com/in/marcelo-mar%C3%A7al-464911a5/" rel="nofollow"><img align="left" alt="haryel gillet ramalho | LinkedIn" width="40px" src="https://github.com/LucasVanni/LucasVanni/raw/master/imgs/linkedin.png" style="max-width:100%;"></a>
+
+<p></p>
 
 - Technologies & Tools,
 - ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
