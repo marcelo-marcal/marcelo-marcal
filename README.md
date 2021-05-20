@@ -8,8 +8,19 @@
 - 💬 Ask me about @Marcelo Marçal
 <p></p>
 
-<a href="https://www.linkedin.com/in/marcelo-mar%C3%A7al-464911a5/" rel="nofollow"><img align="left" alt="haryel gillet ramalho | LinkedIn" width="40px"  src="https://github.com/LucasVanni/LucasVanni/raw/master/imgs/linkedin.png" style="max-width:100%;"/>
-</a>
+### Connect with me:
+
+[<img align="left" alt="haryel gillet ramalho | LinkedIn"  width="40px" src="https://github.com/Marcelo-Marcal/marcelo-marcal/tree/main/imgs/linkedin.png" />][linkedin]
+[<img align="left" alt="haryel gillet ramalho | Github" width="40px"  src="https://github.com/Marcelo-Marcal/marcelo-marcal/tree/main/imgs/github.png" />][github]
+[<img align="left" alt="haryel gillet ramalho | E-mail" width="40px"  src="https://github.com/Marcelo-Marcal/marcelo-marcal/tree/main/imgs/outlook.png" />][outlook]
+
+<br /><br />
+[linkedin]: https://www.linkedin.com/in/marcelo-mar%C3%A7al-464911a5/
+[github]: https://github.com/LucasVanni
+[outlook]: mailto:lucas.vanni@hotmail.com
+
+
+
 
 <p Technologies & Tools>
 
@@ -27,6 +38,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelo-Marcal&show_icons=true&theme=dracula)
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Marcal&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
 
 
 
