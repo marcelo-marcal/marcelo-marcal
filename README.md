@@ -25,3 +25,5 @@
 - <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="git" width="40" height="40" style="max-width:100%;"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width:100%;"> <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="max-width:100%;">
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelo-Marcal&show_icons=true&theme=dracula)
+
