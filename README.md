@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [Marcelo!](https://github.com/Marcelo-Marcal)👋
 
 
 - 🔭 I’m currently working at Magnet Smart Solutions.
@@ -10,19 +10,26 @@
 
 ### Connect with me:
 
-[<img align="left" alt="haryel gillet ramalho | LinkedIn"  width="40px" src="https://github.com/Marcelo-Marcal/marcelo-marcal/tree/main/imgs/linkedin.png" />][linkedin]
-[<img align="left" alt="haryel gillet ramalho | Github" width="40px"  src="https://github.com/Marcelo-Marcal/marcelo-marcal/tree/main/imgs/github.png" />][github]
-[<img align="left" alt="haryel gillet ramalho | E-mail" width="40px"  src="https://github.com/Marcelo-Marcal/marcelo-marcal/tree/main/imgs/outlook.png" />][outlook]
+<a href="https://www.linkedin.com/in/marcelo-mar%C3%A7al-464911a5/">
+  <img align="left" alt="Marcelo Marçal | LinkedIn" src="https://github.com/Marcelo-Marcal/marcelo-marcal/tree/main/imgs/linkedin.png" />
+</a>
+<a href="">
+  <img align="left" alt="Marcelo Marçal | Github" width="40px" src="https://github.com/Marcelo-Marcal/marcelo-marcal/tree/main/imgs/github.png" />
+</a>
+<a href="marcelo.a.marcal@hotmail.com">
+  <img align="left" alt="Marcelo Marçal | E-mail" width="40px" src="https://github.com/Marcelo-Marcal/marcelo-marcal/tree/main/imgs/outlook.png" />
+</a>
 
-<br /><br />
-[linkedin]: https://www.linkedin.com/in/marcelo-mar%C3%A7al-464911a5/
-[github]: https://github.com/LucasVanni
-[outlook]: mailto:lucas.vanni@hotmail.com
-
-
+<br />
+<br />
+<!--- 
+  if you have forked this to use on your profile, 
+  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
+--->
 
 
 <p Technologies & Tools>
+
 
 - ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 - ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
@@ -38,7 +45,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelo-Marcal&show_icons=true&theme=dracula)
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Marcal&layout=compact&theme=algolia" alt="LucasVanni's github stats" />
+
 
 
 
