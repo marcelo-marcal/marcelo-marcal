@@ -12,8 +12,9 @@
   <img align="left" alt="Marcelo Discord" width="40px" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/discord.png" />
 </a>
 
-<br />
-<br />
+<br>
+<br/>
+<br/>
 
 Hi, I'm Marcelo Marçal, a passionate self-taught Back-End web developer from Brasil.
 
