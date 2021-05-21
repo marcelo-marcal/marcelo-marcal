@@ -36,7 +36,7 @@ Hi, I'm Marcelo Marçal, a passionate self-taught Back-End web developer from Br
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <br>
-<code><img height="40" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/heroku.png"></code>
+<code><img height="40" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/heroku01.png"></code>
 <code><img height="40" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/sendgrid.png"></code>
 <code><img height="40" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/netlify.png"></code>
 <code><img height="40" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/digital-ocean.png"></code>
