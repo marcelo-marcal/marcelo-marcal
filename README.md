@@ -4,12 +4,14 @@
 <a href="https://www.linkedin.com/in/marcelo-mar%C3%A7al-464911a5/">
   <img align="left" alt="Marcelo Marçal | Linkedin" width="40px" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/linkedin.png" />
 </a>
-
 <a href="https://github.com/Marcelo-Marcal">
   <img align="left" alt="Marcelo-Marcal | Github" width="40px" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/github.png" />
 </a>
 <a href="https://discord.com/channels/@me">
   <img align="left" alt="Marcelo Discord" width="40px" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/discord.png" />
+</a>
+<a href="https://www.instagram.com/marcelo_a_marcal/">
+  <img align="left" alt="Marcelo Instagram" width="40px" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/instagram.png" />
 </a>
 
 <br>
@@ -32,9 +34,11 @@ Hi, I'm Marcelo Marçal, a passionate self-taught Back-End web developer from Br
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <br>
+<br>
 <code><img height="40" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<br>
 <br>
 <code><img height="40" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/heroku01.png"></code>
 <code><img height="40" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/sendgrid.png"></code>
