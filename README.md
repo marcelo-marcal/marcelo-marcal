@@ -28,6 +28,7 @@ Hi, I'm Marcelo Marçal, a passionate self-taught Back-End web developer from Br
 
 **Languages and Tools:** 
 
+<code><img height="40" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/windows.png"></code>
 <code><img height="40" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/ubuntu.png"></code>
 <br>
 <br>
