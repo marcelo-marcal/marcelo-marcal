@@ -64,6 +64,7 @@ Hi, I'm Marcelo Marçal, a passionate self-taught Back-End web developer from Br
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelo-Marcal&show_icons=true&theme=dracula)
 
-
+<br>
+<br>
 
 ### OBS: Under construction!!!
