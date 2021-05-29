@@ -59,7 +59,7 @@ Hi, I'm Marcelo Marçal, a passionate self-taught Back-End web developer from Br
 <code><img height="40" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/netlify.png"></code>
 <code><img height="40" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/digital-ocean.png"></code>
 <code><img height="40" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/jsreport.png"></code>
-<code><img height="40" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/postgresql.png"></code>
+<code><img height="50" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/postgresql.png"></code>
 
 <!--- 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
