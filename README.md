@@ -21,10 +21,20 @@
 Hi, I'm Marcelo Marçal, a passionate self-taught Back-End web developer from Brasil.
 
 - 🔭 I’m currently working at Magnet Smart Solutions.
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, TYPESCRIPT, SQL, NODE, REACT.
-- 👯 I’m looking to collaborate on cerfoxtelecom project, Setor Azul project.
-- 🤔 I’m looking for help with TypeScript
+- 👯 I'm collaborating on the projects: 
+- Cerfoxtelecom project: https://cerfox.net.br/
+- Magnet Smart Solutions: https://magnet.inf.br/ 
+- Setor Azul project:
 - 💬 Ask me about @Marcelo Marçal
+- 🌱 I’m currently learning SQL, NODE, REACT.
+- I'm working with technologies: 
+- HTML, CSS, JavaScript, TypeScript, 
+- NodeJS, API REST, Express, React, SQL, 
+- pg Admin 4, PostgreSQL, Beekeeper, Insomnia, 
+- gitHub, Netlify, Digital Ocean, SendGrid, Heroku, JSReport, 
+- Trello, Slack.
+
+
 
 **Languages and Tools:** 
 <!--- 
