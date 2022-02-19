@@ -26,6 +26,7 @@ Hi, I'm Marcelo Marçal, a passionate self-taught Back-End web developer from Br
 - Magnet Smart Solutions: https://magnet.inf.br/
 - Magnet Smart Solutions: https://setorazul.com.br/
 - Magnet Smart Solutions: https://app.setorazul.com.br/
+- DataIntegra: SulAmerica.
 - Setor Azul project:
 - 💬 Ask me about @Marcelo Marçal
 - 🌱 I’m currently learning SQL, NODE, REACT.
