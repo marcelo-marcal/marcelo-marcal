@@ -21,13 +21,13 @@
 Hi, I'm Marcelo Marçal, a passionate self-taught Back-End web developer from Brasil.
 
 - 🔭 I’m currently working at Magnet Smart Solutions.
-- 👯 I'm collaborating on the projects: 
+- 👯 I'm collaborating on the projects:
+- Setor Azul project: 
 - Cerfoxtelecom project: https://cerfox.net.br/
 - Magnet Smart Solutions: https://magnet.inf.br/
 - Magnet Smart Solutions: https://setorazul.com.br/
 - Magnet Smart Solutions: https://app.setorazul.com.br/
 - DataIntegra: SulAmerica - (Agendamento Eletrônico Integrado)
-- Setor Azul project:
 - 💬 Ask me about @Marcelo Marçal
 - 🌱 I’m currently learning SQL, NODE, REACT.
 - I'm working with technologies: 
