@@ -22,15 +22,15 @@ Hi, I'm Marcelo Marçal, a passionate self-taught Back-End web developer from Br
 
 - 🔭 I’m currently working at Magnet Smart Solutions.
 - 👯 I'm collaborating on the projects:
-- Magnet project:
-- DataIntegra: Integração Kozma.
-- DataIntegra: Integração Unimed.
-- DataIntegra: Integração SulAmerica.
+- Magnet Smart Solutions project:
 - Magnet Smart Solutions: https://setorazul.com.br/
 - Magnet Smart Solutions: https://magnet.inf.br/
 - Magnet Smart Solutions: https://app.setorazul.com.br/
 - Cerfoxtelecom project: https://cerfox.net.br/
 - DataIntegra project:
+- DataIntegra: Integração Kozma.
+- DataIntegra: Integração Unimed.
+- DataIntegra: Integração SulAmerica.
 - DataIntegra: SulAmerica - (Agendamento Eletrônico Integrado)
 - 💬 Ask me about @Marcelo Marçal
 - 🌱 I’m currently learning SQL, NODE, REACT.
