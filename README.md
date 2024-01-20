@@ -18,27 +18,32 @@
 <br/>
 <br/>
 
-Hi, I'm Marcelo Marçal, a passionate self-taught Back-End web developer from Brasil.
+Hi, I'm Marcelo Marçal, a passionate self-taught Back-End web developer from Brazil.
 
 - 🔭 I’m currently working at Magnet Smart Solutions.
 - 👯 I'm collaborating on the projects:
-- Magnet Smart Solutions project:
-- Magnet Smart Solutions: https://setorazul.com.br/
-- Magnet Smart Solutions: https://magnet.inf.br/
-- Magnet Smart Solutions: https://app.setorazul.com.br/
-- Cerfoxtelecom project: https://cerfoxtelecom.com.br/
+- Magnet Smart: Solutions project:
+- Magnet Smart: Solutions: https://setorazul.com.br/
+- Magnet Smart: Solutions: https://magnet.inf.br/
+- Magnet Smart: Solutions: https://app.setorazul.com.br/
+- Magnet Smart: Cerfoxtelecom project: https://cerfoxtelecom.com.br/
 - DataIntegra project:
 - DataIntegra: Integração Kozma.
 - DataIntegra: Integração Unimed.
 - DataIntegra: Integração SulAmerica.
-- DataIntegra: SulAmerica - (Agendamento Eletrônico Integrado)
+- DataIntegra: SulAmerica - (Agendamento Eletrônico Integrado).
+- HGV Sistemas: Sicredi project: banking system.
+- HGV Sistemas: Sicoob project: banking system.
+- HGV Sistemas: Unicred project: banking system.
+- HGV Sistemas: Unimed project: medical system.
+- HGV Sistemas: CredAilos project: medical system.
 - 💬 Ask me about @Marcelo Marçal
 - 🌱 I’m currently learning SQL, NODE, REACT.
 - I'm working with technologies: 
 - HTML, CSS, JavaScript, TypeScript, 
-- NodeJS, API REST, Express, React, SQL, 
-- pg Admin 4, PostgreSQL, Beekeeper, Insomnia, 
-- gitHub, Netlify, Digital Ocean, SendGrid, Heroku, JSReport, 
+- NodeJS, API REST, Express, Sequelize, React, SQL, MySQL, PL/SQL, PHP
+- pg Admin 4, PostgreSQL, Docker, Beekeeper, Insomnia, 
+- gitHub, Netlify, Digital Ocean, SendGrid, Heroku, JSReport, AWS,
 - Trello, Slack.
 
 
